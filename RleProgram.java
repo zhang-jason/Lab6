@@ -4,7 +4,7 @@ public class RleProgram
 {
     public static void menuDisplay() //prints menu options
     {
-        System.out.println("\nRLE Menu");
+        System.out.println("\nRLE Menu"); //will display menu after every command prompt (and its execution)
         System.out.println("--------");
         System.out.println("0. Exit");
         System.out.println("1. Load File");
